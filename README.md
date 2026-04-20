@@ -62,7 +62,7 @@ You enter your city and birth year. Earth remembers the rest.
 
 ```bash
 # Clone the repository
-git clone https://github.com/SimranShaikh20/EarthsWhisper.git
+git clone https://github.com/SimranShaikh20/Earths-Last-Lettter.git
 cd earths-last-letter
 
 # Install dependencies
